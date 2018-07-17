@@ -1,0 +1,4 @@
+derby.version = 10.14.2.0
+activemq.version = 5.15.4
+activemq-broker.version = 5.15.4
+activemq-kahadb-store.version = 5.15.4
